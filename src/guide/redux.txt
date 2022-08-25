@@ -1,0 +1,14 @@
+WEBSITE
+https://react-redux.js.org/
+
+INSTALL REDUX
+npm install react-redux
+
+
+1. Add PROVIDER to index.js (provide store to the whole app)
+2. Create store (store.js)
+3. Actions will be named in the action.js file.
+4. Make a reducer folder, reducer.txt combines all the reducers.
+5. The other reducer contains the actions to be performed.
+6. useSelector gets the value of the state
+7. useDispatch gets the actions or functions
